@@ -1,0 +1,17 @@
+﻿Build started 5/6/2016 6:47:22 PM.
+     1>Project "D:\Documents\DX\L1 T2\Assignments\CSE Assign and Projects\1405098_1405122_LUDO\New1 - Copy\IGraphics\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         IGraphics.vcxproj -> D:\Documents\DX\L1 T2\Assignments\CSE Assign and Projects\1405098_1405122_LUDO\New1 - Copy\IGraphics\Debug\IGraphics.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\IGraphics.unsuccessfulbuild".
+         Touching "Debug\IGraphics.lastbuildstate".
+     1>Done Building Project "D:\Documents\DX\L1 T2\Assignments\CSE Assign and Projects\1405098_1405122_LUDO\New1 - Copy\IGraphics\IGraphics\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
